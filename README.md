@@ -1,2 +1,2 @@
-# The-thunder-
+# The-thunder
 discord bot
